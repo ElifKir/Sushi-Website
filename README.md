@@ -28,7 +28,7 @@ Before launching your sushi restaurant site, thoroughly test it on different dev
 
 **_Remember to regularly update your website with new content, menu updates, and promotions to keep your visitors engaged and informed about your sushi restaurant._**
 
-IMAGES
+## IMAGES
 <img width="2543" alt="sunum hali" src="https://github.com/ElifKir/Sushi-Website/assets/75785258/0e9ba0b0-12f4-413a-88f5-08911f5e292c">
 ![sunum hali2](https://github.com/ElifKir/Sushi-Website/assets/75785258/ba776f3c-c11e-4a80-9a8a-31ac4a7d8bb8)
 
