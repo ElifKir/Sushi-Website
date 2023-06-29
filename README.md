@@ -32,4 +32,5 @@ IMAGES
 <img width="2543" alt="sunum hali" src="https://github.com/ElifKir/Sushi-Website/assets/75785258/0e9ba0b0-12f4-413a-88f5-08911f5e292c">
 ![sunum hali2](https://github.com/ElifKir/Sushi-Website/assets/75785258/ba776f3c-c11e-4a80-9a8a-31ac4a7d8bb8)
 
+![sunum hali3](https://github.com/ElifKir/Sushi-Website/assets/75785258/d3e14719-2fe9-491c-a82f-cd06dddf3526)
 
