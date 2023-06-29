@@ -2,7 +2,7 @@
 Designing a sushi restaurant website using Wordpress
 Here's a step-by-step guide on how to set up your sushi restaurant site using a dark theme in WordPress:
 
-Step 1: Choose a Dark Theme
+**Step 1: Choose a Dark Theme**
 Start by selecting a dark theme from the WordPress theme directory or a third-party marketplace. You can find numerous dark themes that are specifically designed for restaurants or food-related businesses. Look for a theme that suits your restaurant's style and preferences.
 
 Step 2: Install WordPress
@@ -27,3 +27,9 @@ Step 8: Test and Launch
 Before launching your sushi restaurant site, thoroughly test it on different devices and browsers to ensure it displays correctly and functions properly. Pay attention to responsive design, load times, and overall user experience. Once you're satisfied, it's time to launch your site for the public to see.
 
 Remember to regularly update your website with new content, menu updates, and promotions to keep your visitors engaged and informed about your sushi restaurant.
+
+IMAGES
+<img width="2543" alt="sunum hali" src="https://github.com/ElifKir/Sushi-Website/assets/75785258/0e9ba0b0-12f4-413a-88f5-08911f5e292c">
+![sunum hali2](https://github.com/ElifKir/Sushi-Website/assets/75785258/ba776f3c-c11e-4a80-9a8a-31ac4a7d8bb8)
+
+
