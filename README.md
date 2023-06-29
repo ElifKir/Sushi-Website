@@ -32,4 +32,5 @@ Before launching your sushi restaurant site, thoroughly test it on different dev
 <img width="2543" alt="sunum hali" src="https://github.com/ElifKir/Sushi-Website/assets/75785258/0e9ba0b0-12f4-413a-88f5-08911f5e292c">
 
 ![sunum hali2](https://github.com/ElifKir/Sushi-Website/assets/75785258/13fef685-e735-48d2-b574-0a0cc70a3d67)
-![Uploading sunum hali3.png…]()
+
+![sunum hali3](https://github.com/ElifKir/Sushi-Website/assets/75785258/b1b43a8a-e0f5-4e71-9bdd-1f03d2266b8b)
